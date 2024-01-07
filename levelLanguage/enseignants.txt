@@ -1,0 +1,4 @@
+1, Paul, Français, PaulA, Pau
+2, Peter, Anglais, PeterP, Pet
+3, Djamel, Arabe, DjamelD, Dja
+4, Massi, Berbère, MassiN, Mas

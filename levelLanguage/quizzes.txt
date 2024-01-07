@@ -1,0 +1,125 @@
+Langue : francais
+Niveau : facile
+Question : Tous les matin, je ... du café.
+Options : bois, mange, sors
+Réponse Correcte : bois
+
+Langue : francais
+Niveau : facile
+Question : Quel animal fait "miaou" ?
+Options : chien, chat, oiseau
+Réponse Correcte : chat
+
+Langue : francais
+Niveau : intermediaire
+Question : Tous les jours, je ... pour aller au travail.
+Options : marche, cours, chante
+Réponse Correcte : marche
+
+Langue : francais
+Niveau : intermediaire
+Question : Mon frère et moi ... ensemble tous les dimanches.
+Options : cuisinons, dansons, nageons
+Réponse Correcte : cuisinons
+
+Langue : francais
+Niveau : difficile
+Question :  Il est important de ... des habitudes alimentaires saines.
+Options : prendre, développer, éviter
+Réponse Correcte : développer
+
+Langue : francais
+Niveau : difficile
+Question : Les étoiles dans le ciel sont ... .
+Options : infinies, éteintes, comptées
+Réponse Correcte : infinies
+
+Langue : anglais
+Niveau : facile
+Question : I usually ... coffee in the morning.
+Options : drink, eat, run
+Réponse Correcte : drink
+
+Langue : anglais
+Niveau : facile
+Question :  She ... to school every day.
+Options : goes, reads, sings
+Réponse Correcte : goes
+
+Langue : anglais
+Niveau : intermediaire
+Question : My friend and I ... a new movie last night.
+Options : watched, cooked, played
+Réponse Correcte : watched
+
+Langue : anglais
+Niveau : intermediaire
+Question : The sun ... in the east.
+Options : rises, sets, shines
+Réponse Correcte : rises
+
+Langue : anglais
+Niveau : difficile
+Question : Shakespeare is famous for his ... plays.
+Options : tragic, funny, romantic
+Réponse Correcte : tragic
+
+Langue : anglais
+Niveau : difficile
+Question : The company is known for its commitment to ... innovation.
+Options : continuous, occasional, random
+Réponse Correcte : continuous
+
+Langue : arabe
+Niveau : facile
+Question : .أنا أحب أن ... في الحديقة
+Options : أسير, آكل, أقرأ
+Réponse Correcte : أسير
+
+Langue : arabe
+Niveau : facile
+Question : . ... أنا أشرب الشاي بدلاً من
+Options : القهوة, الحليب, العصير
+Réponse Correcte : القهوة
+
+Langue : arabe
+Niveau : intermediaire
+Question :  . ... في الصيف، يكون الطقس
+Options : حار, بارد, ممطر
+Réponse Correcte : حار
+
+Langue : arabe
+Niveau : intermediaire
+Question : .يجب على الجميع ... على بيئة نظيفة
+Options : الحفاظ , التخلص , الاستهلاك
+Réponse Correcte : الحفاظ 
+
+Langue : arabe
+Niveau : difficile
+Question : .يعتبر العلم ... لتطور المجتمع
+Options : أساس, عائق, مجال
+Réponse Correcte : أساس
+
+Langue : arabe
+Niveau : difficile
+Question : .الإبداع يلعب دورًا مهمًا في تطوير ... الفن
+Options : ميدان, الأسلوب, المحتوى
+Réponse Correcte : الأسلوب
+
+Langue : berbere
+Niveau : facile
+Question : Amek i k-qqaren i ... ?
+Options : kem, kečč, netta
+Réponse Correcte : kečč
+
+Langue : berbere
+Niveau : intermediaire
+Question : ...
+Options : ...
+Réponse Correcte : ...
+
+Langue : berbere
+Niveau : difficile
+Question : ...
+Options : ...
+Réponse Correcte : ...
